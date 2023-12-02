@@ -1,0 +1,26 @@
+# generated from catkin/cmake/em/order_packages.cmake.em
+
+set(CATKIN_ORDERED_PACKAGES "")
+set(CATKIN_ORDERED_PACKAGE_PATHS "")
+set(CATKIN_ORDERED_PACKAGES_IS_META "")
+set(CATKIN_ORDERED_PACKAGES_BUILD_TYPE "")
+list(APPEND CATKIN_ORDERED_PACKAGES "autonomous_msg")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "autonomous_msg")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "pure_proj_autonomous_driving")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "pure_pursuit_project/pure_autonomous_driving")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "pure_proj_map_maker")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "pure_pursuit_project/pure_proj_map_maker")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "pure_proj_simulator")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "pure_pursuit_project/pure_proj_simulator")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+
+set(CATKIN_MESSAGE_GENERATORS )
+
+set(CATKIN_METAPACKAGE_CMAKE_TEMPLATE "/usr/lib/python3/dist-packages/catkin_pkg/templates/metapackage.cmake.in")

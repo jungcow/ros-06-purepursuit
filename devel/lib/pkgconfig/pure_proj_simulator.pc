@@ -1,0 +1,8 @@
+prefix=/home/jungcow/ws_proj_06_pure_pursuit/devel
+
+Name: pure_proj_simulator
+Description: Description of pure_proj_simulator
+Version: 0.0.0
+Cflags: -I/usr/include
+Libs: -L${prefix}/lib -lpure_proj_simulator /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0
+Requires: roscpp std_msgs

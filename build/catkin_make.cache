@@ -1,0 +1,2 @@
+autonomous_msg:pure_pursuit_project/pure_autonomous_driving:pure_pursuit_project/pure_proj_map_maker:pure_pursuit_project/pure_proj_simulator
+-DCATKIN_DEVEL_PREFIX=/home/jungcow/ws_proj_06_pure_pursuit/devel -DCMAKE_INSTALL_PREFIX=/home/jungcow/ws_proj_06_pure_pursuit/install -G Unix Makefiles

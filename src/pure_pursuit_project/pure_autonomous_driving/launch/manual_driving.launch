@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="pure_proj_autonomous_driving" type="cmd_input.py" name="driving_input" output="screen"></node>
+</launch>
